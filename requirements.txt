@@ -1,0 +1,6 @@
+amass
+subfinder
+assetfinder
+sublist3r
+curl
+jq
